@@ -5,4 +5,4 @@ Resources for codeRIT's Git Workshop Event
 
 1. Locate the green **Code** button and click it
 
-![Image1](gitworkshop\images\image1.png)
+![Screenshot](images\image1.png)
